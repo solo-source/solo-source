@@ -3,9 +3,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=solo-source&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I’m currently working on **Backend Development and System Design**
-- 🌱 I’m currently learning **Spring Boot and Advanced System Architectures**
+- 🌱 I’m currently learning **Advanced C++ and Linux System Architectures**
 - 💬 Ask me about **C/C++, Java, Python, Spring Boot, SQL, Linux**
-- 📫 How to reach me: **samrendra@example.com** <!-- Update with your real email if you want -->
+- 📫 How to reach me: **singhsamrendrap@gmail.com**
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samrendra-singh-3a1b13291)
