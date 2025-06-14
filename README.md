@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Backend Development and System Design**
 - 🌱 I’m currently learning **Advanced C++ and Linux System Architectures**
-- 💬 Ask me about **C/C++, Java, Python, Spring Boot, SQL, Linux**
+- 💬 Ask me about **C/C++, Java, Spring Boot, SQL, Linux**
 - 📫 How to reach me: **singhsamrendrap@gmail.com**
 
 ## Connect with me:
@@ -14,7 +14,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-FFD700?style=for-the-badge&logo=agile&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
