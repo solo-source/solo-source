@@ -2,8 +2,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=solo-source&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on **Backend Development and System Design**
-- 🌱 I’m currently learning **Advanced C++ and Linux System Architectures**
+- 🔭 I’m currently learning **Backend Development and LLD**
+- 🌱 Interested in **Advanced C++ and Linux System Architectures**
 - 💬 Ask me about **C/C++, Java, Spring Boot, SQL, Linux**
 - 📫 How to reach me: **singhsamrendrap@gmail.com**
 
